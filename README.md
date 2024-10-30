@@ -1,4 +1,4 @@
-# PowerBI-Dashboard-Projects HR Analytics :
+# HR Analytics PowerBI-Dashboard-Project :
 PowerBI Dashboard Projects 
 
 **HR Analytics: Attrition Cause & Insights Dashboard**
